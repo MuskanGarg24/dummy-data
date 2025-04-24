@@ -1,0 +1,11 @@
+﻿KRI_ID,KRI_Name,Risk_Category,Risk_Level
+KRI1,Qualitative GTN Complexity Score,Finance,High
+KRI2,LE Abs % Change Score,Finance,Medium
+KRI3,Non-Oracle Risk Score,Finance,High
+KRI4,% GTN Adjustment,Finance,Low
+KRI5,Manual GTN JE % of Gross Rev,Finance,High
+KRI6,Manual Inv as % AR Score,Operations,Medium
+KRI7,RMA as % AR Score,Operations,Medium
+KRI8,Spend/Invoicing Score,Finance,High
+KRI9,Credit % AP/AR Score,Finance,Medium
+KRI10,# of Bank Acc Changes,Finance,High

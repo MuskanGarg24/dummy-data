@@ -1,0 +1,41 @@
+﻿recommendation_id,recommendation,issue_id
+R1,Employees should follow policy and reconcile 2–3 times/year,I01
+R2,Establish 30-day deadline for event reconciliation,I01
+R3,Annual training or include in performance goals,I01
+R4,Affiliate should analyze T&E past due twice/year,I02
+R5,Revisit T&E policy on late credit card fees,I02
+R6,Provide notifications to staff about T&E policy,I03
+R7,Managers should review expense report summary page,I03
+R8,Confirm vendor agreement to Gilead terms > €10k,I04
+R9,Monitor spend to verify contracts or POs,I04
+R10,Equip Handirect for efficient and timely event reconciliation reviews,I05
+R11,"Revise Third Party Reconciliation Policy to define audit frequency, coverage, and sampling",I05
+R12,Train PO processors on accurate GL coding,I06
+R13,Collaborate with FSS to resolve Oracle i-Procure setup errors,I06
+R14,Clarify and communicate policy on services requiring a work order,I09
+R15,Ensure purchase orders confirm vendor agreement to Gilead terms and conditions before work is performed,I09
+R16,Enhance training of employees and expense approvers to prevent non-compliance with policy,I10
+R17,Enhance monitoring of T&E to detect instances of non-compliance,I10
+R18,"Perform account variance analysis to ensure correct classification of sponsorships, congresses, and ad-boards in GL accounts",I13
+R19,Establish controls to ensure contracts are complete and accurate prior to execution,I14
+R20,Ensure rebate accrual modifiers are confirmed during system updates to ensure accurate revenue recording,I15
+R21,Ensure vendors provide comprehensive contract estimates including a ‘not to exceed’ clause,I16
+R22,Document justification for additional costs in Purchase Requisition when financial commitments are indeterminate at contract execution,I16
+R23,Implement standard operating procedures to ensure third-party event planner billings are substantiated by underlying receipts and invoices,I17
+R24,Require Gilead review of contracts between meeting planners and engaged HCPs to ensure agreements match approved terms,I18
+R25,Implement controls to ensure contracts are executed prior to work commencement,I18
+R26,Provide additional training on contracting requirements and their rationale,I18
+R27,"Increase monitoring of Concur expenses, particularly individuals and teams involved in findings",I19
+R28,Conduct refresher training on proper documentation and submission of Concur expenses,I19
+R29,Improve accountability of Medical Affairs managers in reviewing expense submissions,I19
+R30,Ensure meeting reports clarify that commercial personnel are present for awareness only and not involved in decision-making,I20
+R31,Provide refresher training on careful communication in internal documents,I20
+R32,Provide additional guidance on Oracle natural account categorization,I21
+R33,Review Portugal's unique use cases with Gilead’s OTC Global Process Lead to determine if Oracle functionality can reduce reliance on manual credit memos and invoices,I22
+R34,Assess adherence to revenue recognition principles where accounting periods differ between product shipment and customer billing,I22
+R35,Ensure vendor-prepared event reconciliations include supporting receipts that reconcile to pass-through costs,I23
+R36,Perform account variance analysis to ensure proper classification of sponsorships and grants,I24
+R37,Ensure executed contracts are in place before approving Oracle purchase requisitions,I25
+R38,Ensure contracts are signed by both parties before the commencement of services by coordinating with Legal with adequate lead time,I26
+R39,Classify direct and passthrough costs in work orders before contract execution to facilitate proper reconciliation and review of expenses,I26
+R40,"Thorough review of customer setup, including confirmation of correct customer channel and disco",I27

@@ -1,0 +1,28 @@
+﻿issue_id,affiliate_id,issue
+I01,A1,Non-compliance with the event reconciliation policy
+I02,A1,Completion of T&E reports on a timely basis
+I03,A1,Inaccurate classification of T&E expenses
+I04,A2,Contract Management
+I05,A2,Event Reconciliation
+I06,A2,General Ledger Coding
+I04,A3,Contract Management
+I05,A3,Event Reconciliation
+I04,A4,Contract Management
+I07,A4,Travel and Expense Review
+I04,A5,Contract Management
+I05,A5,Event Reconciliation
+I08,A6,General Ledger Accounting
+I04,A6,Contract Management
+I09,A7,Oracle Pricing – Rebate Accrual Setup
+I10,A7,Purchase Order Review
+I11,A7,Third-party Event Planner Reconciliations
+I12,A8,HCP agreements not reflecting internally-approved payment terms
+I13,A8,Review of employee expense claims suggests need for additional oversight
+I14,A8,Documentation for certain cross-functional meetings
+I15,A8,Misclassification of third-party event sponsorships
+I16,A9,Manual Credit Memos and Manual Invoices
+I05,A9,Event Reconciliation
+I08,A9,General Ledger Accounting
+I17,A9,Vendor Contracts
+I18,A10,Third-party event planner contract management
+I19,A11,Oracle Customer Setup Error
